@@ -8,3 +8,5 @@ Features:
 - Right click spammer for autoblock. Key is V.
 
 !: WSE2 is not supported but maybe can support in next time.
+
+Discord: wayt#2996
